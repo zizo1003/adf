@@ -1,0 +1,9 @@
+{
+	"name": "DFLabtuto",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28811a85-e623-4b4a-9a17-1d0f30b4133d",
+		"tenantId": "2da6d6b3-3ba0-417b-9818-60f389ba2617"
+	}
+}
