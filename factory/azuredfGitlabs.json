@@ -1,0 +1,9 @@
+{
+	"name": "azuredfGitlabs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "341c939c-4f22-4823-bff9-efafc1da2734",
+		"tenantId": "2da6d6b3-3ba0-417b-9818-60f389ba2617"
+	}
+}
